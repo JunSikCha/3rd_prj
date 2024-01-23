@@ -37,7 +37,14 @@
 
 ## Back end
 
+### Database
 
+![쌍용 3번째 프로젝트-1조_page-0003](https://github.com/Gh-js/2nd_prj/assets/142857148/4b8fc76c-7413-43ed-9198-9d18cd71bb6f)
+
+### Class Diagram
+
+![쌍용 3번째 프로젝트-1조_page-0005](https://github.com/Gh-js/2nd_prj/assets/142857148/4532aca5-8edf-48c9-afb3-acdb48002564)
+![쌍용 3번째 프로젝트-1조_page-0006](https://github.com/Gh-js/2nd_prj/assets/142857148/6e436dc5-2498-4beb-b15e-dc3eb851cc46)
 
 ### Prerequisites
 
