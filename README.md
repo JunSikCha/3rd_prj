@@ -39,7 +39,7 @@
 
 ### Database
 
-![쌍용 3번째 프로젝트-1조_page-0003](https://github.com/Gh-js/2nd_prj/assets/142857148/4b8fc76c-7413-43ed-9198-9d18cd71bb6f)
+![쌍용 3번째 프로젝트-1조_page-0004](https://github.com/Gh-js/2nd_prj/assets/142857148/fe3bfb04-229b-42db-9bc0-92495d44596b)
 
 ### Class Diagram
 
